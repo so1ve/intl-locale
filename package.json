@@ -1,7 +1,7 @@
 {
   "name": "intl-locale",
   "version": "0.1.0",
-  "packageManager": "pnpm@7.33.1",
+  "packageManager": "pnpm@7.33.2",
   "author": "Ray <i@mk1.io> (@so1ve)",
   "description": "",
   "keywords": [],
