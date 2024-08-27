@@ -51,7 +51,7 @@
     "watch": "puild --watch"
   },
   "devDependencies": {
-    "@antfu/ni": "^0.21.0",
+    "@antfu/ni": "^0.23.0",
     "@babel/types": "^7.20.5",
     "@so1ve/eslint-config": "^0.108.0",
     "@types/node": "^18.11.11",
